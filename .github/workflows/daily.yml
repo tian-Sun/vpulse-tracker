@@ -38,12 +38,32 @@ jobs:
         python run_daily.py
         echo "结束运行时间: $(date '+%Y-%m-%d %H:%M:%S')"
         
-    - name: Commit and push if changed
+    - name: Commit and push to main
       run: |
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add data/
         git commit -m "Update tracking data for $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Sync data to gh-pages
+      run: |
+        # 保存当前数据
+        cp -r data /tmp/data
+        
+        # 切换到 gh-pages 分支
+        git fetch origin gh-pages
+        git checkout gh-pages
+        
+        # 更新数据
+        rm -rf data
+        cp -r /tmp/data data
+        
+        # 提交更改
+        git add data/
+        git commit -m "Sync data from main branch - $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
