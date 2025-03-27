@@ -197,23 +197,23 @@ class VPulseCrawler:
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>V-Pulse 排行榜历史记录</title>
             <style>
-                body {
+                body {{
                     font-family: 'Microsoft YaHei', sans-serif;
                     margin: 0;
                     padding: 20px;
                     background-color: #f8f9fa;
-                }
-                .container {
+                }}
+                .container {{
                     max-width: 1400px;
                     margin: 0 auto;
                     padding: 20px;
                     position: relative;
-                }
-                .header-container {
+                }}
+                .header-container {{
                     position: relative;
                     margin-bottom: 40px;
-                }
-                .last-update {
+                }}
+                .last-update {{
                     position: absolute;
                     top: 0;
                     right: 0;
@@ -223,92 +223,92 @@ class VPulseCrawler:
                     padding: 8px 15px;
                     border-radius: 5px;
                     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-                }
-                h1 {
+                }}
+                h1 {{
                     color: #2c3e50;
                     text-align: center;
                     margin: 0;
                     padding: 20px 0;
                     font-size: 32px;
                     font-weight: 600;
-                }
-                .section {
+                }}
+                .section {{
                     background-color: white;
                     border-radius: 15px;
                     padding: 25px;
                     margin-bottom: 30px;
                     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
                     overflow-x: auto;
-                }
-                h2 {
+                }}
+                h2 {{
                     color: #34495e;
                     margin-bottom: 25px;
                     padding-bottom: 15px;
                     border-bottom: 2px solid #eee;
                     font-size: 24px;
                     font-weight: 500;
-                }
-                table {
+                }}
+                table {{
                     width: 100%;
                     border-collapse: separate;
                     border-spacing: 0;
                     margin-bottom: 20px;
-                }
-                th, td {
+                }}
+                th, td {{
                     padding: 15px;
                     text-align: center;
                     border: 1px solid #eee;
-                }
-                th {
+                }}
+                th {{
                     background-color: #f8f9fa;
                     font-weight: 600;
                     color: #2c3e50;
                     border-bottom: 2px solid #ddd;
-                }
-                tr:hover {
+                }}
+                tr:hover {{
                     background-color: #f8f9fa;
-                }
-                td {
+                }}
+                td {{
                     color: #34495e;
-                }
-                .rank-up {
+                }}
+                .rank-up {{
                     color: #2ecc71;
                     font-weight: bold;
-                }
-                .rank-down {
+                }}
+                .rank-down {{
                     color: #e74c3c;
                     font-weight: bold;
-                }
-                .rank-same {
+                }}
+                .rank-same {{
                     color: #95a5a6;
-                }
-                .trend {
+                }}
+                .trend {{
                     font-size: 14px;
                     margin-left: 5px;
-                }
-                .date-header {
+                }}
+                .date-header {{
                     font-size: 16px;
                     color: #2c3e50;
                     font-weight: 500;
-                }
-                .name-cell {
+                }}
+                .name-cell {{
                     text-align: left;
                     font-weight: 500;
                     color: #2c3e50;
                     padding-left: 20px;
-                }
-                .rank-cell {
+                }}
+                .rank-cell {{
                     font-weight: 600;
                     width: 100px;
                     background-color: #ffffff;
-                }
-                tr:nth-child(even) {
+                }}
+                tr:nth-child(even) {{
                     background-color: #f9fafb;
-                }
-                .section:hover {
+                }}
+                .section:hover {{
                     box-shadow: 0 6px 12px rgba(0,0,0,0.08);
                     transition: box-shadow 0.3s ease;
-                }
+                }}
             </style>
         </head>
         <body>
