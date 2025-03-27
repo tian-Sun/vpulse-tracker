@@ -7,6 +7,7 @@ import time
 import json
 from datetime import datetime
 import os
+import pytz
 
 class VPulseCrawler:
     def __init__(self):
@@ -66,10 +67,14 @@ class VPulseCrawler:
                 print("错误：未找到足够的排行榜区域")
                 return None
                 
+            # 使用中国时区
+            china_tz = pytz.timezone('Asia/Shanghai')
+            current_time = datetime.now(china_tz)
+            
             data = {
                 "artists": self._extract_section_data(sections[0], "明星"),
                 "dramas": self._extract_section_data(sections[1], "连续剧"),
-                "crawl_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                "crawl_time": current_time.strftime("%Y-%m-%d %H:%M:%S")
             }
             
             return data

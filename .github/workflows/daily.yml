@@ -6,6 +6,9 @@ on:
     - cron: '12 2 * * *'  # UTC时间2点12分（北京时间10点12分）
   workflow_dispatch:      # 允许手动触发
 
+env:
+  TZ: Asia/Shanghai    # 设置时区为中国时区
+
 jobs:
   track:
     # 只在 main 分支上运行
