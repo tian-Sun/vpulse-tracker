@@ -380,8 +380,8 @@ class VPulseCrawler:
         latest_date = max(history_data.keys())
         latest_time = history_data[latest_date]["crawl_time"]
 
+        # 生成 HTML 内容
         html_content = html_template.format(
-            title="V-Pulse 排行榜历史记录",
             last_update=latest_time,
             artists_table=generate_rank_table("artists"),
             dramas_table=generate_rank_table("dramas")
@@ -392,6 +392,7 @@ class VPulseCrawler:
         with open(html_filename, "w", encoding="utf-8") as f:
             f.write(html_content)
         print(f"HTML报告已生成：{html_filename}")
+        print(f"最近更新时间：{latest_time}")
             
     def close(self):
         """关闭浏览器"""
