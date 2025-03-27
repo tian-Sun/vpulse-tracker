@@ -20,11 +20,15 @@ class VPulseCrawler:
         chrome_options.add_argument('--disable-javascript')  # 禁用JavaScript
         chrome_options.add_argument('--window-size=1920,1080')
         
-        # 设置 Chrome 二进制文件路径
-        chrome_options.binary_location = "/usr/bin/google-chrome"
-        
         # 初始化浏览器
-        self.driver = webdriver.Chrome(options=chrome_options)
+        try:
+            self.driver = webdriver.Chrome(options=chrome_options)
+        except Exception as e:
+            print(f"初始化 Chrome 失败: {str(e)}")
+            print("尝试使用系统 Chrome...")
+            chrome_options.binary_location = "/usr/bin/google-chrome-stable"
+            self.driver = webdriver.Chrome(options=chrome_options)
+            
         self.wait = WebDriverWait(self.driver, 10)  # 减少等待时间
         
     def scroll_to_load(self):
