@@ -190,115 +190,133 @@ class VPulseCrawler:
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>V-Pulse 排行榜历史记录</title>
             <style>
-                body {{
+                body {
                     font-family: 'Microsoft YaHei', sans-serif;
                     margin: 0;
                     padding: 20px;
                     background-color: #f8f9fa;
-                }}
-                .container {{
+                }
+                .container {
                     max-width: 1400px;
                     margin: 0 auto;
                     padding: 20px;
-                }}
-                .section {{
+                    position: relative;
+                }
+                .header-container {
+                    position: relative;
+                    margin-bottom: 40px;
+                }
+                .last-update {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    color: #666;
+                    font-size: 14px;
+                    background-color: #fff;
+                    padding: 8px 15px;
+                    border-radius: 5px;
+                    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+                }
+                h1 {
+                    color: #2c3e50;
+                    text-align: center;
+                    margin: 0;
+                    padding: 20px 0;
+                    font-size: 32px;
+                    font-weight: 600;
+                }
+                .section {
                     background-color: white;
                     border-radius: 15px;
                     padding: 25px;
                     margin-bottom: 30px;
                     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
                     overflow-x: auto;
-                }}
-                h1 {{
-                    color: #2c3e50;
-                    text-align: center;
-                    margin-bottom: 40px;
-                    font-size: 32px;
-                    font-weight: 600;
-                }}
-                h2 {{
+                }
+                h2 {
                     color: #34495e;
                     margin-bottom: 25px;
                     padding-bottom: 15px;
                     border-bottom: 2px solid #eee;
                     font-size: 24px;
                     font-weight: 500;
-                }}
-                table {{
+                }
+                table {
                     width: 100%;
                     border-collapse: separate;
                     border-spacing: 0;
                     margin-bottom: 20px;
-                }}
-                th, td {{
+                }
+                th, td {
                     padding: 15px;
                     text-align: center;
                     border: 1px solid #eee;
-                }}
-                th {{
+                }
+                th {
                     background-color: #f8f9fa;
                     font-weight: 600;
                     color: #2c3e50;
                     border-bottom: 2px solid #ddd;
-                }}
-                tr:hover {{
+                }
+                tr:hover {
                     background-color: #f8f9fa;
-                }}
-                td {{
+                }
+                td {
                     color: #34495e;
-                }}
-                .rank-up {{
+                }
+                .rank-up {
                     color: #2ecc71;
                     font-weight: bold;
-                }}
-                .rank-down {{
+                }
+                .rank-down {
                     color: #e74c3c;
                     font-weight: bold;
-                }}
-                .rank-same {{
+                }
+                .rank-same {
                     color: #95a5a6;
-                }}
-                .trend {{
+                }
+                .trend {
                     font-size: 14px;
                     margin-left: 5px;
-                }}
-                .date-header {{
+                }
+                .date-header {
                     font-size: 16px;
                     color: #2c3e50;
                     font-weight: 500;
-                }}
-                .name-cell {{
+                }
+                .name-cell {
                     text-align: left;
                     font-weight: 500;
                     color: #2c3e50;
                     padding-left: 20px;
-                }}
-                .rank-cell {{
+                }
+                .rank-cell {
                     font-weight: 600;
                     width: 100px;
                     background-color: #ffffff;
-                }}
-                tr:nth-child(even) {{
+                }
+                tr:nth-child(even) {
                     background-color: #f9fafb;
-                }}
-                .section:hover {{
+                }
+                .section:hover {
                     box-shadow: 0 6px 12px rgba(0,0,0,0.08);
                     transition: box-shadow 0.3s ease;
-                }}
+                }
             </style>
         </head>
         <body>
             <div class="container">
-                <h1>V-Pulse 排行榜历史记录</h1>
-                
+                <div class="header-container">
+                    <h1>V-Pulse 排行榜历史记录</h1>
+                    <div class="last-update">最近更新时间：{last_update}</div>
+                </div>
                 <div class="section">
                     <h2>明星排行榜</h2>
-                    {artists_content}
+                    {artists_table}
                 </div>
-                
                 <div class="section">
                     <h2>电视剧排行榜</h2>
-                    {dramas_content}
+                    {dramas_table}
                 </div>
             </div>
         </body>
@@ -358,12 +376,15 @@ class VPulseCrawler:
             content += "</table>"
             return content
         
-        artists_content = generate_rank_table('artists')
-        dramas_content = generate_rank_table('dramas')
-        
+        # 获取最近的运行时间
+        latest_date = max(history_data.keys())
+        latest_time = history_data[latest_date]["crawl_time"]
+
         html_content = html_template.format(
-            artists_content=artists_content,
-            dramas_content=dramas_content
+            title="V-Pulse 排行榜历史记录",
+            last_update=latest_time,
+            artists_table=generate_rank_table("artists"),
+            dramas_table=generate_rank_table("dramas")
         )
         
         # 保存HTML文件
