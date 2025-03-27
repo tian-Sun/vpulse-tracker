@@ -31,12 +31,15 @@ jobs:
         pip install -r requirements.txt
         
     - name: Run tracker
-      run: python run_daily.py
+      run: |
+        echo "开始运行时间: $(date '+%Y-%m-%d %H:%M:%S')"
+        python run_daily.py
+        echo "结束运行时间: $(date '+%Y-%m-%d %H:%M:%S')"
         
     - name: Commit and push if changed
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add data/
-        git commit -m "Update tracking data for $(date +'%Y-%m-%d')" || exit 0
+        git commit -m "Update tracking data for $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
         git push
