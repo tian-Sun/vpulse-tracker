@@ -20,6 +20,9 @@ class VPulseCrawler:
         chrome_options.add_argument('--disable-javascript')  # 禁用JavaScript
         chrome_options.add_argument('--window-size=1920,1080')
         
+        # 设置 Chrome 二进制文件路径
+        chrome_options.binary_location = "/usr/bin/google-chrome"
+        
         # 初始化浏览器
         self.driver = webdriver.Chrome(options=chrome_options)
         self.wait = WebDriverWait(self.driver, 10)  # 减少等待时间
