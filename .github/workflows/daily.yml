@@ -8,6 +8,8 @@ on:
 
 jobs:
   track:
+    # 只在 main 分支上运行
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: write    # 添加写入权限
