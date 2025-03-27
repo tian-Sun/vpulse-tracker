@@ -2,7 +2,7 @@ name: Daily V-Pulse Tracking
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # UTC时间1点（北京时间9点）
+    - cron: '12 2 * * *'  # UTC时间2:12（北京时间10:12）
   workflow_dispatch:      # 允许手动触发
 
 jobs:
