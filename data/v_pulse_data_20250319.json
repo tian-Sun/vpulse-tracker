@@ -1,0 +1,127 @@
+{
+  "artists": [
+    {
+      "rank": "TOP 1",
+      "name": "白敬亭",
+      "global_rank": "TOP 1",
+      "china_rank": "TOP 20"
+    },
+    {
+      "rank": "TOP 2",
+      "name": "王一博",
+      "global_rank": "TOP 2",
+      "china_rank": "TOP 4"
+    },
+    {
+      "rank": "TOP 3",
+      "name": "章若楠",
+      "global_rank": "TOP 3",
+      "china_rank": "TOP 34"
+    },
+    {
+      "rank": "TOP 4",
+      "name": "虞书欣",
+      "global_rank": "TOP 4",
+      "china_rank": "TOP 3"
+    },
+    {
+      "rank": "TOP 5",
+      "name": "赵露思",
+      "global_rank": "TOP 5",
+      "china_rank": "TOP 10"
+    },
+    {
+      "rank": "TOP 6",
+      "name": "张凌赫",
+      "global_rank": "TOP 6",
+      "china_rank": "TOP 17"
+    },
+    {
+      "rank": "TOP 7",
+      "name": "檀健次",
+      "global_rank": "TOP 7",
+      "china_rank": "TOP 16"
+    },
+    {
+      "rank": "TOP 8",
+      "name": "肖战",
+      "global_rank": "TOP 8",
+      "china_rank": "TOP 1"
+    },
+    {
+      "rank": "TOP 9",
+      "name": "周翊然",
+      "global_rank": "TOP 9",
+      "china_rank": "TOP 45"
+    },
+    {
+      "rank": "TOP 10",
+      "name": "赵丽颖",
+      "global_rank": "TOP 10",
+      "china_rank": "TOP 19"
+    }
+  ],
+  "dramas": [
+    {
+      "rank": "TOP 1",
+      "name": "难哄",
+      "global_rank": "TOP 1",
+      "china_rank": "TOP 3"
+    },
+    {
+      "rank": "TOP 2",
+      "name": "嘘国王在冬眠",
+      "global_rank": "TOP 2",
+      "china_rank": "TOP 49"
+    },
+    {
+      "rank": "TOP 3",
+      "name": "滤镜",
+      "global_rank": "TOP 3",
+      "china_rank": "TOP 1"
+    },
+    {
+      "rank": "TOP 4",
+      "name": "偷偷藏不住",
+      "global_rank": "TOP 4",
+      "china_rank": "TOP 31"
+    },
+    {
+      "rank": "TOP 5",
+      "name": "似锦",
+      "global_rank": "TOP 5",
+      "china_rank": "TOP 7"
+    },
+    {
+      "rank": "TOP 6",
+      "name": "你比星光美丽",
+      "global_rank": "TOP 6",
+      "china_rank": "TOP 48"
+    },
+    {
+      "rank": "TOP 7",
+      "name": "白色橄榄树",
+      "global_rank": "TOP 7",
+      "china_rank": "TOP 22"
+    },
+    {
+      "rank": "TOP 8",
+      "name": "爱你",
+      "global_rank": "TOP 8",
+      "china_rank": "TOP 5"
+    },
+    {
+      "rank": "TOP 9",
+      "name": "相思令",
+      "global_rank": "TOP 9",
+      "china_rank": "TOP 28"
+    },
+    {
+      "rank": "TOP 10",
+      "name": "当我飞奔向你",
+      "global_rank": "TOP 10",
+      "china_rank": "TOP 35"
+    }
+  ],
+  "crawl_time": "2025-03-19 18:16:28"
+}

@@ -1,0 +1,41 @@
+name: Daily V-Pulse Tracking
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # UTC时间1点（北京时间9点）
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0    # 获取完整历史记录以保留数据
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+    
+    - name: Install Chrome and ChromeDriver
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run tracker
+      run: python run_daily.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add data/
+        git commit -m "Update tracking data for $(date +'%Y-%m-%d')" || exit 0
+        git push
