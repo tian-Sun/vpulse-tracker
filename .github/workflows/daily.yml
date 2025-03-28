@@ -2,7 +2,8 @@ name: Daily V-Pulse Tracking
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # UTC时间1点（北京时间9点）
+    - cron: '55 0 * * *'  # UTC时间0点55分（北京时间8点55分）
+    - cron: '0 0 * * 1'   # 每周一 UTC时间0点（用于保持仓库活跃）
   workflow_dispatch:      # 允许手动触发
 
 env:
