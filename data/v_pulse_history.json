@@ -1042,5 +1042,92 @@
       }
     ],
     "crawl_time": "2025-03-30 10:23:59"
+  },
+  "20250331": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "林一",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "嘘国王在冬眠",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "白色橄榄树",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "长相思2",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-03-31 08:48:12"
   }
 }
