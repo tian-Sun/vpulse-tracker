@@ -1390,5 +1390,92 @@
       }
     ],
     "crawl_time": "2025-04-03 10:11:39"
+  },
+  "20250404": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "沈月",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "张颂文",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "嘘国王在冬眠",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "你比星光美丽",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "珠帘玉幕",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-04-04 01:14:16"
   }
 }
