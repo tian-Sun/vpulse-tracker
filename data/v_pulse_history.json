@@ -1477,5 +1477,92 @@
       }
     ],
     "crawl_time": "2025-04-04 02:16:20"
+  },
+  "20250405": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "王鹤棣",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "易烊千玺",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "嘘国王在冬眠",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "永夜星河",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "雁回时",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "你比星光美丽",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "藏海传",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-04-05 01:14:11"
   }
 }
