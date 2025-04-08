@@ -1825,5 +1825,92 @@
       }
     ],
     "crawl_time": "2025-04-08 02:16:41"
+  },
+  "20250409": {
+    "artists": [
+      {
+        "name": "白敬亭",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "范丞丞",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "张淼怡",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "王鹤棣",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "雁回时",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "值得爱",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "念无双",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白色橄榄树",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "掌心",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "玫瑰的故事",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-04-09 01:15:02"
   }
 }
