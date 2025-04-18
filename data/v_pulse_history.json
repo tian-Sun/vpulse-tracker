@@ -2695,5 +2695,92 @@
       }
     ],
     "crawl_time": "2025-04-18 02:16:26"
+  },
+  "20250419": {
+    "artists": [
+      {
+        "name": "王一博",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "李现",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "玫瑰的故事",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "念无双",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "无忧渡",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "掌心",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "吃饭跑步和恋爱",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "嘘国王在冬眠",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-04-19 01:13:55"
   }
 }
