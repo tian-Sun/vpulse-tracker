@@ -4348,5 +4348,92 @@
       }
     ],
     "crawl_time": "2025-05-07 02:17:09"
+  },
+  "20250508": {
+    "artists": [
+      {
+        "name": "白敬亭",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "成毅",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "章昊",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "淮水竹亭",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赴山海",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白色橄榄树",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "落花时节又逢君",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "掌心",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "吃饭跑步和恋爱",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-05-08 01:14:58"
   }
 }
