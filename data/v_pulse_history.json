@@ -4783,5 +4783,92 @@
       }
     ],
     "crawl_time": "2025-05-12 09:27:03"
+  },
+  "20250513": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "范丞丞",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "丁禹兮",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "戚薇",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "淮水竹亭",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赴山海",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "白色橄榄树",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "余烬之上",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "慕胥辞",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-05-13 01:14:32"
   }
 }
