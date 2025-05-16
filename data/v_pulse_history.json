@@ -5131,5 +5131,92 @@
       }
     ],
     "crawl_time": "2025-05-16 02:17:28"
+  },
+  "20250517": {
+    "artists": [
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "钟楚曦",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "淮水竹亭",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "值得爱",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "藏海传",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "赴山海",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-05-17 01:13:46"
   }
 }
