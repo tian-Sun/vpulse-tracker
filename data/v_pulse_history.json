@@ -6175,5 +6175,92 @@
       }
     ],
     "crawl_time": "2025-05-28 02:15:53"
+  },
+  "20250529": {
+    "artists": [
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "范丞丞",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白敬亭",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "折腰",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "藏海传",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "陷入我们的热恋",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "开画！少女漫",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-05-29 01:15:17"
   }
 }
