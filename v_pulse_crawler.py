@@ -341,8 +341,8 @@ class VPulseCrawler:
         """
         
         def generate_rank_table(data_type):
-            # 获取最近7天的数据
-            sorted_dates = sorted(history_data.keys(), reverse=True)[:7]
+            # 获取最近14天的数据
+            sorted_dates = sorted(history_data.keys(), reverse=True)[:14]
             if not sorted_dates:
                 return "<p>暂无数据</p>"
             
