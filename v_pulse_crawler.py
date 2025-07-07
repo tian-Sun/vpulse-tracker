@@ -3,11 +3,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 import time
 import json
 from datetime import datetime
 import os
 import pytz
+import traceback
 
 class VPulseCrawler:
     def __init__(self):
@@ -23,7 +26,9 @@ class VPulseCrawler:
         
         # 初始化浏览器
         try:
-            self.driver = webdriver.Chrome(options=chrome_options)
+            # 使用 webdriver-manager 自动管理 ChromeDriver
+            service = Service(ChromeDriverManager().install())
+            self.driver = webdriver.Chrome(service=service, options=chrome_options)
         except Exception as e:
             print(f"初始化 Chrome 失败: {str(e)}")
             print("尝试使用系统 Chrome...")

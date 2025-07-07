@@ -11,3 +11,9 @@
 1. 克隆仓库
 2. 安装依赖：`pip install -r requirements.txt`
 3. 运行脚本：`python v_pulse_crawler.py`
+
+## github提交代码
+git pull --rebase origin main
+git add .
+git commit -m ""
+git push
