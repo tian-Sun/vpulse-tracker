@@ -10207,5 +10207,88 @@
       }
     ],
     "crawl_time": "2025-07-21 09:47:05"
+  },
+  "20250722": {
+    "artists": [
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "沈月",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "李一桐",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "岳云鹏",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "焕羽",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "滤镜",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "临江仙",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "嘘国王在冬眠",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "白月梵星",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-07-22 01:18:18"
   }
 }
