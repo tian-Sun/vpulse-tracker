@@ -10543,5 +10543,92 @@
       }
     ],
     "crawl_time": "2025-07-25 02:19:11"
+  },
+  "20250726": {
+    "artists": [
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "李昀锐",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "李一桐",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "龚俊",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "焕羽",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "书卷一梦",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白月梵星",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "临江仙",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "无忧渡",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "长月烬明",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-07-26 01:17:57"
   }
 }
