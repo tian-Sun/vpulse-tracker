@@ -12105,5 +12105,92 @@
       }
     ],
     "crawl_time": "2025-08-12 02:19:24"
+  },
+  "20250813": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "朱一龙",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "沈月",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "樱桃琥珀",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "临江仙",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "书卷一梦",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "焕羽",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "凡人修仙传",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-08-13 01:16:55"
   }
 }
