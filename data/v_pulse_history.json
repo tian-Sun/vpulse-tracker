@@ -15407,5 +15407,92 @@
       }
     ],
     "crawl_time": "2025-09-19 02:17:37"
+  },
+  "20250920": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "胡先煦",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "以爱为营",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "献鱼",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赴山海",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "白月梵星",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "锦月如歌",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "临江仙",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-09-20 01:14:07"
   }
 }
