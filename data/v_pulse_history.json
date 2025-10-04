@@ -16672,5 +16672,92 @@
       }
     ],
     "crawl_time": "2025-10-04 02:17:07"
+  },
+  "20251005": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "李现",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "王安宇",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "神隐",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "长月烬明",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "焕羽",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "九重紫",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-10-05 01:12:04"
   }
 }
