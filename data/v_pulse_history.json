@@ -17822,5 +17822,92 @@
       }
     ],
     "crawl_time": "2025-10-18 02:15:27"
+  },
+  "20251019": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "周也",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "入青云",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "一笑随歌",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "大奉打更人",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "墨雨云间",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-10-19 01:12:18"
   }
 }
