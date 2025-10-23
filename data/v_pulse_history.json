@@ -18253,5 +18253,92 @@
       }
     ],
     "crawl_time": "2025-10-23 02:19:42"
+  },
+  "20251024": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "李沁",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "入青云",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "一笑随歌",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "宴遇永安",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "吃饭跑步和恋爱",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-10-24 01:14:54"
   }
 }
