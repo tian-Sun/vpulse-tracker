@@ -19297,5 +19297,92 @@
       }
     ],
     "crawl_time": "2025-11-04 02:18:16"
+  },
+  "20251105": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "易烊千玺",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "周也",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "周翊然",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "入青云",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "一笑随歌",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "白色橄榄树",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "天地剑心",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-11-05 01:13:32"
   }
 }
