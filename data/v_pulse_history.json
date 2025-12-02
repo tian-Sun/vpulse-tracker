@@ -21721,5 +21721,84 @@
       }
     ],
     "crawl_time": "2025-12-02 02:21:23"
+  },
+  "20251203": {
+    "artists": [
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "周也",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "王安宇",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "胡先煦",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "难哄",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "天地剑心",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "入青云",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "凤凰台上",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-12-03 01:20:56"
   }
 }
