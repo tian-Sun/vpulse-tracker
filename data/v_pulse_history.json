@@ -22235,5 +22235,92 @@
       }
     ],
     "crawl_time": "2025-12-08 09:27:43"
+  },
+  "20251209": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "陈都灵",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "枭起青壤",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "凤凰台上",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "折腰",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "只此江湖梦",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-12-09 01:18:15"
   }
 }
