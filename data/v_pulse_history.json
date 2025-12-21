@@ -23366,5 +23366,92 @@
       }
     ],
     "crawl_time": "2025-12-21 02:17:01"
+  },
+  "20251222": {
+    "artists": [
+      {
+        "name": "虞书欣",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "胡先煦",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "李现",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "双轨",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "狙击蝴蝶",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "大生意人",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "七根心简",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "新闻女王2",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "余生有涯",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-12-22 01:14:56"
   }
 }
