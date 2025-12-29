@@ -24062,5 +24062,92 @@
       }
     ],
     "crawl_time": "2025-12-29 09:47:07"
+  },
+  "20251230": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "陈都灵",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "赵今麦",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "陈星旭",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "双轨",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "狙击蝴蝶",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "大生意人",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "长安二十四计",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "樱桃琥珀",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "折腰",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2025-12-30 01:16:31"
   }
 }
