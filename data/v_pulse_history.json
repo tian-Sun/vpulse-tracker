@@ -24845,5 +24845,92 @@
       }
     ],
     "crawl_time": "2026-01-07 02:20:48"
+  },
+  "20260108": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "何与",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "章若楠",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "双轨",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "狙击蝴蝶",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "逍遥",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "大生意人",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "新闻女王2",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "余生有涯",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-01-08 01:24:16"
   }
 }
