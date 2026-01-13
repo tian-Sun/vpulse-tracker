@@ -25367,5 +25367,92 @@
       }
     ],
     "crawl_time": "2026-01-13 02:21:31"
+  },
+  "20260114": {
+    "artists": [
+      {
+        "name": "张凌赫",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "赵今麦",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "宋威龙",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "双轨",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "逍遥",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "狙击蝴蝶",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "新闻女王2",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "许我耀眼",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-01-14 01:24:32"
   }
 }
