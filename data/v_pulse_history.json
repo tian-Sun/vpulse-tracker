@@ -25715,5 +25715,92 @@
       }
     ],
     "crawl_time": "2026-01-17 02:21:23"
+  },
+  "20260118": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "宋威龙",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "双轨",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "轧戏",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "玫瑰的故事",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "狙击蝴蝶",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "逍遥",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "樱桃琥珀",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-01-18 01:15:25"
   }
 }
