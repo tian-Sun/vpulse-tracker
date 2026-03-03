@@ -29630,5 +29630,92 @@
       }
     ],
     "crawl_time": "2026-03-03 02:34:42"
+  },
+  "20260304": {
+    "artists": [
+      {
+        "name": "赵露思",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "易烊千玺",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "周翊然",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "王楚然",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "虞书欣",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "双轨",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "纯真年代的爱情",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "成何体统",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "玫瑰的故事",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "太平年",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "轧戏",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-03-04 01:41:52"
   }
 }
