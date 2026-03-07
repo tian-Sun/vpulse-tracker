@@ -29978,5 +29978,92 @@
       }
     ],
     "crawl_time": "2026-03-07 02:33:03"
+  },
+  "20260308": {
+    "artists": [
+      {
+        "name": "肖战",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "王一博",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "李雪琴",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "金世佳",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "江湖夜雨十年灯",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "玫瑰的故事",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "双轨",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "赴山海",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "纯真年代的爱情",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "成何体统",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "天地剑心",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-03-08 01:19:06"
   }
 }
