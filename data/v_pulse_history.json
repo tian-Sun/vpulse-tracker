@@ -32153,5 +32153,92 @@
       }
     ],
     "crawl_time": "2026-04-01 02:50:20"
+  },
+  "20260402": {
+    "artists": [
+      {
+        "name": "张凌赫",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "田曦薇",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "邓凯",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "陈哲远",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "谭松韵",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "逐玉",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "双轨",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白日提灯",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "江湖夜雨十年灯",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "爱你",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "纯真年代的爱情",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-04-02 01:47:37"
   }
 }
