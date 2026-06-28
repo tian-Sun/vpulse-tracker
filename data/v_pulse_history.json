@@ -39727,5 +39727,92 @@
       }
     ],
     "crawl_time": "2026-06-28 03:05:43"
+  },
+  "20260629": {
+    "artists": [
+      {
+        "name": "周柯宇",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "田曦薇",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "谭松韵",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "丁禹兮",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "炽夏",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "逐玉",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "莫离",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "当我飞奔向你",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "双轨",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "耀眼",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-06-29 02:03:01"
   }
 }
