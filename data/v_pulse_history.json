@@ -45204,5 +45204,92 @@
       }
     ],
     "crawl_time": "2026-08-30 04:12:56"
+  },
+  "20260831": {
+    "artists": [
+      {
+        "name": "孟子义",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "田曦薇",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "刘宇宁",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "野狗骨头",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "炽夏",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "逐玉",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "早春晴朗",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "九门",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "这一秒过火",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "百花杀",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "以爱为营",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-08-31 03:37:55"
   }
 }
