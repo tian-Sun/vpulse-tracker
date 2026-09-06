@@ -45813,5 +45813,92 @@
       }
     ],
     "crawl_time": "2026-09-06 03:44:32"
+  },
+  "20260907": {
+    "artists": [
+      {
+        "name": "景甜",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "孙千",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "井柏然",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "白鹿",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "赵露思",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "周柯宇",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "迪丽热巴",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "宋威龙",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "早春晴朗",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "炽夏",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "野狗骨头",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "逐玉",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "飞到我心上",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "成何体统",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "这一秒过火",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "百花杀",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-09-07 02:50:11"
   }
 }
