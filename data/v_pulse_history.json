@@ -49890,5 +49890,92 @@
       }
     ],
     "crawl_time": "2026-10-23 05:00:24"
+  },
+  "20261024": {
+    "artists": [
+      {
+        "name": "丞磊",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "田曦薇",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "谭松韵",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "刘学义",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "赵丽颖",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "张凌赫",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "孟子义",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "肖战",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "杨幂",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "王楚然",
+        "rank": "TOP 10"
+      }
+    ],
+    "dramas": [
+      {
+        "name": "玉簟秋",
+        "rank": "TOP 1"
+      },
+      {
+        "name": "兰香如故",
+        "rank": "TOP 2"
+      },
+      {
+        "name": "早春晴朗",
+        "rank": "TOP 3"
+      },
+      {
+        "name": "野狗骨头",
+        "rank": "TOP 4"
+      },
+      {
+        "name": "难哄",
+        "rank": "TOP 5"
+      },
+      {
+        "name": "逐玉",
+        "rank": "TOP 6"
+      },
+      {
+        "name": "醉梦",
+        "rank": "TOP 7"
+      },
+      {
+        "name": "炽夏",
+        "rank": "TOP 8"
+      },
+      {
+        "name": "偷偷藏不住",
+        "rank": "TOP 9"
+      },
+      {
+        "name": "骄阳似我",
+        "rank": "TOP 10"
+      }
+    ],
+    "crawl_time": "2026-10-24 04:12:10"
   }
 }
